@@ -1,0 +1,8 @@
+Build : SPKWPVB19N4MA031422
+
+SPK (Sistem Penunjang Keputusan)
+WP (Weighted Product)
+VB19 (Visual Basic 2019)
+N4 (.Net Framework 4)
+MA (Microsoft Access)
+031422 (Bulan, Tanggal, Tahun) 
